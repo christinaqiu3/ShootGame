@@ -10,39 +10,39 @@ Your goal is simple: reach the sniper and take them down before they kill you fi
 * Right Mouse Click — Use the grappling hook to swing between platforms
 * Tab — Toggle between two different platform types
 * K (near tall surfaces) — Enter climbing mode, then use WASD to climb
- * Be careful: moving platforms and attacks can knock you off!
+  * Be careful: moving platforms and attacks can knock you off!
 
 ### Enemy Mechanics
 
 * Sniper enemy constantly fires red and blue bullets
 * Sniper teleports randomly between platforms above
 * The sniper switches between randomized attack styles:
- * Fast light attacks
- * Slower but heavy barrages
+  * Fast light attacks
+  * Slower but heavy barrages
 * Goal: Reach the sniper and eliminate them to win!
 
 ### Custom Features Point Breakdown
 
 Christina Qiu
 * Post Processing (10 pts)
- * Screen saturation lowers as player health decreases
+  * Screen saturation lowers as player health decreases
 * NPCs with Subtypes (30 pts)
- * Sniper uses randomized attack behavior:
-  * Light frequent attacks
-  * Heavy but slower barrages
+  * Sniper uses randomized attack behavior:
+    * Light frequent attacks
+    * Heavy but slower barrages
 * Custom HLSL Shaders (10 pts)
- * Stylized lava floor shader
+  * Stylized lava floor shader
 * Climbing System (15 pts)
 * Swinging Grappling Hook (30 pts)
 
 Lilian
 * Sound System (10 pts)
- * Gunfire
- * Grappling hook
+  * Gunfire
+  * Grappling hook
 * Particles (10–20+ pts)
- * Gunfire fire
- * Gunfire smoke
- * Grappling hook sparks
+  * Gunfire fire
+  * Gunfire smoke
+  * Grappling hook sparks
 * Player & NPC Animations (15 pts)
- * Player movement
- * Player death animation
+  * Player movement
+  * Player death animation
