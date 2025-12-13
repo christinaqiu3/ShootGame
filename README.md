@@ -39,6 +39,8 @@ Lilian
 * Sound System (10 pts)
   * Gunfire
   * Grappling hook
+  * Jumping
+  * Damage taking
 * Particles (10–20+ pts)
   * Gunfire fire
   * Gunfire smoke
@@ -46,3 +48,8 @@ Lilian
 * Player & NPC Animations (15 pts)
   * Player movement
   * Player death animation
+* UI (25 pts)
+  * Death screen
+  * Win screen
+  * Health / Ammo / Coin #
+
